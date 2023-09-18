@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "895937475874",
+    "project_id": "anonymous-rj",
+    "storage_bucket": "anonymous-rj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895937475874:android:186ebd7b805c4247b6617b",
+        "android_client_info": {
+          "package_name": "com.mycompany.anonymousrj"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUfZ7zu8A4yLvZXHerZOcJIk5uMnvm00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895937475874:android:ff942ee6054f39feb6617b",
+        "android_client_info": {
+          "package_name": "com.mycompany.faculdade"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsUfZ7zu8A4yLvZXHerZOcJIk5uMnvm00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
